@@ -5,7 +5,7 @@ COMPONENTS = \
 	libixp_pthread
 
 # Paths
-PREFIX = /usr/local
+PREFIX = /usr
   BIN = $(PREFIX)/bin
   MAN = $(PREFIX)/share/man
   ETC = $(PREFIX)/etc
